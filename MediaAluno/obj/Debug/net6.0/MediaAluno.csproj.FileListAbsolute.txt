@@ -1,0 +1,15 @@
+C:\Users\joaoa\source\repos\MediaAluno\bin\Debug\net6.0\MediaAluno.exe
+C:\Users\joaoa\source\repos\MediaAluno\bin\Debug\net6.0\MediaAluno.deps.json
+C:\Users\joaoa\source\repos\MediaAluno\bin\Debug\net6.0\MediaAluno.runtimeconfig.json
+C:\Users\joaoa\source\repos\MediaAluno\bin\Debug\net6.0\MediaAluno.dll
+C:\Users\joaoa\source\repos\MediaAluno\bin\Debug\net6.0\MediaAluno.pdb
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\MediaAluno.csproj.AssemblyReference.cache
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\MediaAluno.AssemblyInfoInputs.cache
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\MediaAluno.AssemblyInfo.cs
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\MediaAluno.dll
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\refint\MediaAluno.dll
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\MediaAluno.pdb
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\MediaAluno.genruntimeconfig.cache
+C:\Users\joaoa\source\repos\MediaAluno\obj\Debug\net6.0\ref\MediaAluno.dll
